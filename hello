@@ -1,0 +1,6 @@
+#!/bin/bash
+
+NAME="Ajay"
+echo "$NAME"
+
+echo "Hello to the World of Git, $NAME"
